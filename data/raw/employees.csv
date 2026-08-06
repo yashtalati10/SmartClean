@@ -1,0 +1,11 @@
+Employee_ID,Name,Age,Gender,Department,Salary,Joining_Date,Email,Phone,City
+101,Rahul Sharma,25,Male,IT,50000,2022-01-15,rahul@example.com,9876543210,Pune
+102,Priya Patel,29,Female,HR,60000,2021-03-12,priya@example.com,9876543211,Mumbai
+103,Amit Verma,,Male,Finance,55000,2020-07-18,amit@example.com,9876543212,Delhi
+104,Neha Singh,31,Female,IT,,2019-09-22,neha@example.com,9876543213,Bangalore
+105,Rahul Sharma,25,Male,IT,50000,2022-01-15,rahul@example.com,9876543210,Pune
+106,Arjun Mehta,27,Male,Sales,48000,2023-02-10,,9876543215,Chennai
+107,Sneha Joshi,26,Female,Marketing,52000,2022-05-17,sneha@example.com,,Hyderabad
+108,Vikram Rao,45,Male,Management,150000,2015-08-01,vikram@example.com,9876543217,Mumbai
+109,Ananya Das,24,Female,IT,51000,2023-01-11,ananya@example.com,9876543218,Kolkata
+110,Rohit Kumar,200,Male,Finance,70000,2018-06-20,rohit@example.com,9876543219,Delhi
